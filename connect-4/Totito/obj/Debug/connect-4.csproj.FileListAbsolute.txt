@@ -1,0 +1,10 @@
+C:\Users\elisa\Documents\IMPORTANTE\connect-4\Totito\bin\Debug\Totito.exe.config
+C:\Users\elisa\Documents\IMPORTANTE\connect-4\Totito\bin\Debug\Totito.exe
+C:\Users\elisa\Documents\IMPORTANTE\connect-4\Totito\bin\Debug\Totito.pdb
+C:\Users\elisa\Documents\IMPORTANTE\connect-4\Totito\obj\Debug\connect-4.csprojResolveAssemblyReference.cache
+C:\Users\elisa\Documents\IMPORTANTE\connect-4\Totito\obj\Debug\Totito.Form1.resources
+C:\Users\elisa\Documents\IMPORTANTE\connect-4\Totito\obj\Debug\Totito.Properties.Resources.resources
+C:\Users\elisa\Documents\IMPORTANTE\connect-4\Totito\obj\Debug\connect-4.csproj.GenerateResource.Cache
+C:\Users\elisa\Documents\IMPORTANTE\connect-4\Totito\obj\Debug\connect-4.csproj.CoreCompileInputs.cache
+C:\Users\elisa\Documents\IMPORTANTE\connect-4\Totito\obj\Debug\Totito.exe
+C:\Users\elisa\Documents\IMPORTANTE\connect-4\Totito\obj\Debug\Totito.pdb

@@ -1,0 +1,36 @@
+c:\users\20179\documents\visual studio 2015\Projects\Totito\Totito\bin\Debug\Totito.exe.config
+c:\users\20179\documents\visual studio 2015\Projects\Totito\Totito\bin\Debug\Totito.exe
+c:\users\20179\documents\visual studio 2015\Projects\Totito\Totito\bin\Debug\Totito.pdb
+c:\users\20179\documents\visual studio 2015\Projects\Totito\Totito\obj\Debug\Totito.csprojResolveAssemblyReference.cache
+c:\users\20179\documents\visual studio 2015\Projects\Totito\Totito\obj\Debug\Totito.Form1.resources
+c:\users\20179\documents\visual studio 2015\Projects\Totito\Totito\obj\Debug\Totito.Properties.Resources.resources
+c:\users\20179\documents\visual studio 2015\Projects\Totito\Totito\obj\Debug\Totito.csproj.GenerateResource.Cache
+c:\users\20179\documents\visual studio 2015\Projects\Totito\Totito\obj\Debug\Totito.exe
+c:\users\20179\documents\visual studio 2015\Projects\Totito\Totito\obj\Debug\Totito.pdb
+C:\Users\20171340\Desktop\Totito\Totito\bin\Debug\Totito.exe.config
+C:\Users\20171340\Desktop\Totito\Totito\obj\Debug\Totito.exe
+C:\Users\20171340\Desktop\Totito\Totito\obj\Debug\Totito.pdb
+C:\Users\20171340\Desktop\Totito\Totito\bin\Debug\Totito.exe
+C:\Users\20171340\Desktop\Totito\Totito\bin\Debug\Totito.pdb
+C:\Users\20171340\Desktop\Totito\Totito\obj\Debug\Totito.csprojResolveAssemblyReference.cache
+C:\Users\20171340\Desktop\Totito\Totito\obj\Debug\Totito.Form1.resources
+C:\Users\20171340\Desktop\Totito\Totito\obj\Debug\Totito.Properties.Resources.resources
+C:\Users\20171340\Desktop\Totito\Totito\obj\Debug\Totito.csproj.GenerateResource.Cache
+C:\Users\chris\Desktop\Totito\Totito\bin\Debug\Totito.exe.config
+C:\Users\chris\Desktop\Totito\Totito\bin\Debug\Totito.exe
+C:\Users\chris\Desktop\Totito\Totito\bin\Debug\Totito.pdb
+C:\Users\chris\Desktop\Totito\Totito\obj\Debug\Totito.csprojResolveAssemblyReference.cache
+C:\Users\chris\Desktop\Totito\Totito\obj\Debug\Totito.Form1.resources
+C:\Users\chris\Desktop\Totito\Totito\obj\Debug\Totito.Properties.Resources.resources
+C:\Users\chris\Desktop\Totito\Totito\obj\Debug\Totito.csproj.GenerateResource.Cache
+C:\Users\chris\Desktop\Totito\Totito\obj\Debug\Totito.exe
+C:\Users\chris\Desktop\Totito\Totito\obj\Debug\Totito.pdb
+C:\Users\chris\Documents\Visual Studio 2017\Projects\Totito\Totito\bin\Debug\Totito.exe.config
+C:\Users\chris\Documents\Visual Studio 2017\Projects\Totito\Totito\bin\Debug\Totito.exe
+C:\Users\chris\Documents\Visual Studio 2017\Projects\Totito\Totito\bin\Debug\Totito.pdb
+C:\Users\chris\Documents\Visual Studio 2017\Projects\Totito\Totito\obj\Debug\Totito.csprojResolveAssemblyReference.cache
+C:\Users\chris\Documents\Visual Studio 2017\Projects\Totito\Totito\obj\Debug\Totito.Form1.resources
+C:\Users\chris\Documents\Visual Studio 2017\Projects\Totito\Totito\obj\Debug\Totito.Properties.Resources.resources
+C:\Users\chris\Documents\Visual Studio 2017\Projects\Totito\Totito\obj\Debug\Totito.csproj.GenerateResource.Cache
+C:\Users\chris\Documents\Visual Studio 2017\Projects\Totito\Totito\obj\Debug\Totito.exe
+C:\Users\chris\Documents\Visual Studio 2017\Projects\Totito\Totito\obj\Debug\Totito.pdb
