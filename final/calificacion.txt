@@ -1,0 +1,5 @@
+* No compila
+* FAltan 5 pruebas unitarias
+* No se utilizaron interfaces
+
+Total: 5/10
